@@ -1,0 +1,40 @@
+{
+    "schema_version": 1,
+    "next_id": 3,
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "Anna",
+            "last_name": "Nowak",
+            "job_title": "Python Developer",
+            "department": "IT",
+            "street": "Przykładowa",
+            "house_number": "1A",
+            "apartment_number": "2",
+            "postal_code": "90-001",
+            "city": "Łódź",
+            "country": "Polska",
+            "email": "anna.nowak@example.com",
+            "phone": "",
+            "hire_date": "2026-01-15",
+            "medical_exam_valid_until": "2027-01-15"
+        },
+        {
+            "id": 2,
+            "first_name": "Jan",
+            "last_name": "Kowalski",
+            "job_title": "HR Specialist",
+            "department": "HR",
+            "street": "Testowa",
+            "house_number": "10",
+            "apartment_number": "",
+            "postal_code": "30-001",
+            "city": "Kraków",
+            "country": "Polska",
+            "email": "jan.kowalski@example.com",
+            "phone": "",
+            "hire_date": "2024-02-29",
+            "medical_exam_valid_until": "2025-02-28"
+        }
+    ]
+}
